@@ -141,9 +141,11 @@ Heavy daytime users churn at nearly **3× the rate** of moderate users — likel
 - **Comparative Metric Analysis** — Churned vs retained cohort comparison across 7 variables
 - **Churn Rate Segmentation** — Breakdown by plan type, usage tier, CS call frequency, and area code
 
----
+--
 
-recommended.**
+-## Author
 
----
+**Mohd Faiz**
+- **Role:** Business and Data Analyst
+- **GitHub:** [hub.com/faizikbal01-lab](https://github.com/your-username)
 
